@@ -1,3 +1,3 @@
 # DevHero
 # We Love Hacktoberfest
-This repository is for Hacktoberfest Event
+This repository is for Hacktoberfest-2021 Event
